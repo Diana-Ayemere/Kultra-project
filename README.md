@@ -19,11 +19,4 @@ Using SQL, I explored key business metrics such as:
 - Excel (for data viewing and light formatting)
 - GitHub (for version control and portfolio presentation)
 
-## 📌 Key Insights
 
-- 📍 The **West** region recorded the highest sales.
-- 📉 **Appliances** underperformed in certain regions.
-- 🚚 **Express Air** had the highest shipping cost, often used for low-priority orders (inefficient).
-- 🧍‍♂️ Some high-return customers were from the **Consumer** segment.
-
-## 📁 File Structure
